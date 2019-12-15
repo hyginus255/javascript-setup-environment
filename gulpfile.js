@@ -1,6 +1,14 @@
-function defaultTask(cb) {
-  // place code for your default task here
-  cb();
-}
+const gulp = require('gulp');
+const babel = require('gulp-babel');
 
-exports.default = defaultTask
+gulp.task('default', () =>
+
+  //node sourc
+	gulp.src('es6/**/*.js')
+		.pipe(babel({
+			presets: ['@babel/preset-env']
+		}))
+    .pipe(gulp.dest('dist'))
+    
+
+);
