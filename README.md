@@ -1,11 +1,11 @@
-#Basic javascript setup environment.
+# Basic javascript setup environment.
 
-#Setting up Git
+### Setting up Git
 
-##Setting up NPM
+### Setting up NPM
 
-##Setting Up Build tool (gulp)
+### Setting Up Build tool (gulp)
 
-## Settting up Es6
+### Settting up Es6
 
-## Setting up Eslint (Airbnb Standard)
+### Setting up Eslint (Airbnb Standard)
