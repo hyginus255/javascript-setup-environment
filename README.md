@@ -1,4 +1,11 @@
-= Learning JavaScript, 3rd Edition
-== Chapter 2: JavaScript Development Tools
-In this chapter we're learning about Git and other
-development tools.
+#Basic javascript setup environment.
+
+#Setting up Git
+
+##Setting up NPM
+
+##Setting Up Build tool (gulp)
+
+## Settting up Es6
+
+## Setting up Eslint (Airbnb Standard)
