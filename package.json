@@ -4,7 +4,8 @@
   "description": "= Learning JavaScript, 3rd Edition\r == Chapter 2: JavaScript Development Tools\r In this chapter we're learning about Git and other\r development tools.",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
